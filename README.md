@@ -7,7 +7,7 @@
 
 1. Download XMind-x86_64.AppImage and make it executable.
    ```shell
-   wget https://github.com/sagarkhandve/XMind/releases/download/v11.1.2/XMind-x86_64.AppImage
+   wget https://github.com/sagarkhandve/XMind-AppImage/releases/download/v11.1.2/XMind-x86_64.AppImage
    chmod +x XMind-x86_64.AppImage
    ```
 2. Run:
