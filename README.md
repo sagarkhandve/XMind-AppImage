@@ -3,7 +3,7 @@
 ## XMind
 #### - Un-offical linux portable XMind application.
 
-![xmind](https://user-images.githubusercontent.com/90393971/150600238-4af5632e-b4c6-493b-b1bf-8e7152872acf.png)
+![i](https://user-images.githubusercontent.com/90393971/150856041-7e6c08d6-020d-4d90-8344-31b780255362.png)
 
 1. Download XMind-x86_64.AppImage and make it executable.
    ```shell
